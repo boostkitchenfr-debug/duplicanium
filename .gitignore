@@ -1,0 +1,5 @@
+node_modules/
+.netlify/
+*.log
+server.err
+server.log
