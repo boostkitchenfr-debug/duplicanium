@@ -1,0 +1,16 @@
+{
+  "name": "Boost Kitchen",
+  "short_name": "Boost Kitchen",
+  "description": "Concepts delivery et pages optimisées pour restaurants.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ea",
+  "theme_color": "#07140a",
+  "icons": [
+    {
+      "src": "/assets/boostkitchen.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
